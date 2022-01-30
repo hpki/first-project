@@ -1,1 +1,2 @@
-class public static Ancle
+public class Praktikum {
+    public static void main(String[] args)
